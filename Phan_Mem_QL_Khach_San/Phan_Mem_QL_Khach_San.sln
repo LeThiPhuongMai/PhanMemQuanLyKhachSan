@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phan_Mem_QL_Khach_San", "Phan_Mem_QL_Khach_San\Phan_Mem_QL_Khach_San.csproj", "{9708260C-7F46-4FF1-8CEE-243FEEA2E2FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConTrol", "ConTrol\ConTrol.csproj", "{08D04CD4-2FAE-4EEE-8C97-F148A4664416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QL_KhachSan", "QL_KhachSan\QL_KhachSan.csproj", "{4859F7C2-4689-4EBD-868F-718D0F7BCD81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9708260C-7F46-4FF1-8CEE-243FEEA2E2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9708260C-7F46-4FF1-8CEE-243FEEA2E2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9708260C-7F46-4FF1-8CEE-243FEEA2E2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9708260C-7F46-4FF1-8CEE-243FEEA2E2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08D04CD4-2FAE-4EEE-8C97-F148A4664416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D04CD4-2FAE-4EEE-8C97-F148A4664416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D04CD4-2FAE-4EEE-8C97-F148A4664416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D04CD4-2FAE-4EEE-8C97-F148A4664416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4859F7C2-4689-4EBD-868F-718D0F7BCD81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4859F7C2-4689-4EBD-868F-718D0F7BCD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4859F7C2-4689-4EBD-868F-718D0F7BCD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4859F7C2-4689-4EBD-868F-718D0F7BCD81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+D:\LTWNC_QLKS\Phan_Mem_QL_Khach_San\QL_KhachSan\bin\QL_KhachSan.dll
+D:\LTWNC_QLKS\Phan_Mem_QL_Khach_San\QL_KhachSan\bin\QL_KhachSan.pdb
+D:\LTWNC_QLKS\Phan_Mem_QL_Khach_San\QL_KhachSan\obj\Debug\QL_KhachSan.dll
+D:\LTWNC_QLKS\Phan_Mem_QL_Khach_San\QL_KhachSan\obj\Debug\QL_KhachSan.pdb
